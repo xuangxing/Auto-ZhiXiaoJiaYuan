@@ -1,15 +1,15 @@
 [
   {
     "enable": true,
-    "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
+    "alias": "ddd",
+    "phone": "13213264841",
+    "password": "li123456.",
     "randomLocation": false,
     "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
+    "deviceId": "9bedfd8e2a9e44d884eccc861a8441316315",
+    "address": "河南省许昌市魏都区许继大道西段",
+    "longitude": "113.798111",
+    "latitude": "34.023041",
+    "pushKey": "385012cd4f564393b35bba2cf956cbe9"
   }
 ]
